@@ -26,7 +26,7 @@ game.StarterGui:SetCore(
 	"SendNotification",
 	{
 		Title = "Wuss's Gui",
-		Text = "DM HK#0002 FOR SUPPORT",
+		Text = "DM 1yyz FOR SUPPORT",
 	}
 )
 wait(3)
